@@ -140,7 +140,7 @@ void tlb_miss(size_t& frame, size_t& page, size_t& tlb_track) {
 } // TODO
 
 void fifo_replace_page(size_t& frame ) {
-   //  tlb_remove(0);
+    tlb_remove(0);
  }   // TODO
 
 void lru_replace_page(size_t& frame) { 
