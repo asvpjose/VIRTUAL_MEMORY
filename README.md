@@ -1,4 +1,4 @@
 # VIRTUAL_MEMORY
-Vanessa Ayala : vanessaa891@csu.fullerton.edu
+Jose Delgadillo : asvpjose@csu.fullerton.edu
 
-Worked with: Jose Delgadillo 
+Worked with: Vanessa Ayala  
