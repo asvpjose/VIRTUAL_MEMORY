@@ -1,5 +1,5 @@
 //  mem_mgr.cpp
-// worked with Jose Delgadillo 
+// worked with Vanessa Ayala
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
